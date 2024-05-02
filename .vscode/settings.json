@@ -1,0 +1,7 @@
+{
+  "files.autoSaveWhenNoErrors": true,
+  "javascript.suggest.completeJSDocs": false,
+  "typescript.suggest.enabled": false,
+  "javascript.suggest.enabled": false,
+  "typescript.suggest.completeJSDocs": false
+}
